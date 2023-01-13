@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHEECHANG&layout=compact)](https://github.com/PARKHEECHANG/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=PARKHEECHANG)](https://solved.ac/PARKHEECHANG/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjc4623)](https://solved.ac/shjc4623/)
+
+[![HEECHANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG)](https://github.com/PARKHEECHANG/github-readme-stats)
+
+![HEECHANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG&hide=contribs,prs)
+
+![HEECHANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG&count_private=true)
+
+
 
 
 
