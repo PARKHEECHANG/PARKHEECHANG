@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![shjc4623's github stats](https://github-readme-stats.vercel.app/api?username=shjc4623&show_icons=true)
+
+![shjc4623@gmail.com's github stats](https://github-readme-stats.vercel.app/api?username=shjc4623@gmail.com&show_icons=true)
