@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PARKHEECHANG's github stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG&show_icons=true)
-[![PARKHEECHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHEECHANG&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/PARKHEECHANG)
+[![PARKHEECHANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG)](https://github.com/PARKHEECHANG/github-readme-stats)
