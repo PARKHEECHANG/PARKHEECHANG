@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ![HEECHANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHEECHANG&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHEECHANG&layout=compact)](https://github.com/PARKHEECHANG/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjc4623)](https://solved.ac/shjc4623/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shjc4623)](https://solved.ac/shjc4623)
 
 
 
